@@ -8,6 +8,7 @@ Steps:
 * cd simple_map_interface
 * npm install
 * npm run build
+* open dist/index.html in your browser
 
 The Webpack config includes:
 * externalize CSS in a style.css file
